@@ -2,9 +2,9 @@
   "name": "api-refresh-token",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/server.js",
+  "main": "dist/index.js",
   "scripts": {
-    "start": "tsc && nodemon dist/server.js",
+    "start": "tsc && nodemon",
     "lint": "eslint . --ext .ts"
   },
   "keywords": [],
