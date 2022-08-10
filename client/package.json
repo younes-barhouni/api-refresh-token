@@ -1,0 +1,56 @@
+{
+  "name": "refresh-token-client",
+  "version": "0.1.0",
+  "dependencies": {
+    "@mantine/core": "^3.6.3",
+    "@mantine/dates": "^3.6.3",
+    "@mantine/dropzone": "^3.6.3",
+    "@mantine/hooks": "^3.6.6",
+    "@mantine/modals": "^3.6.3",
+    "@mantine/notifications": "^3.6.6",
+    "@mantine/prism": "^3.6.3",
+    "@mantine/rte": "^3.6.3",
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "dayjs": "^1.10.7",
+    "dotenv": "^8.2.0",
+    "form-data": "^3.0.0",
+    "formik": "^2.2.9",
+    "keyv": "^4.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "styled-components": "^5.3.3",
+    "typescript": "^4.5.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.21",
+    "sass": "^1.49.0"
+  }
+}
